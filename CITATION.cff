@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these programs or data, please cite the paper."
+title: "Hopf Bifurcations and Bistability in the Hodgkin-Huxley Equations at the 1952 Parameters: Computer-Assisted Proofs"
+type: software
+authors:
+  - given-names: "Chase"
+    family-names: "Hendrick"
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0002-9754-6087"
+license: Apache-2.0
+repository-code: "https://github.com/ChaseHendrick/hh-dynamics"
+preferred-citation:
+  type: article
+  title: "Hopf Bifurcations and Bistability in the Hodgkin-Huxley Equations at the 1952 Parameters: Computer-Assisted Proofs"
+  authors:
+    - given-names: "Chase"
+      family-names: "Hendrick"
+      affiliation: "Independent Researcher"
+      orcid: "https://orcid.org/0009-0002-9754-6087"
+  year: 2026
