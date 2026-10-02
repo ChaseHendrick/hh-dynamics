@@ -9,8 +9,8 @@ authors:
     orcid: "https://orcid.org/0009-0002-9754-6087"
 license: Apache-2.0
 repository-code: "https://github.com/ChaseHendrick/hh-dynamics"
-version: "1.0.5"
-doi: "10.5281/zenodo.23050587"
+version: "1.0.6"
+doi: "10.5281/zenodo.23096223"
 preferred-citation:
   type: article
   title: "Hopf Bifurcations and Bistability in the Hodgkin-Huxley Equations at the 1952 Parameters: Computer-Assisted Proofs"
@@ -21,4 +21,4 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0002-9754-6087"
   year: 2026
   url: "https://github.com/ChaseHendrick/hh-dynamics"
-  doi: "10.5281/zenodo.23050587"
+  doi: "10.5281/zenodo.23096223"
